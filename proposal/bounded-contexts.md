@@ -1,6 +1,6 @@
 # Contextos Delimitados (DDD)
 
-**MediSchedule** se descompone en 8 contextos delimitados. Cada uno representa un área de negocio independiente con sus propias entidades y eventos.
+**Healthcare scheduling system** se descompone en 8 contextos delimitados. Cada uno representa un área de negocio independiente con sus propias entidades y eventos.
 
 ---
 
