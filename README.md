@@ -19,7 +19,7 @@ Se eligió el **Monolito Modular con Event Driven** porque permite mantener la i
 
 | Carpeta | Descripción |
 |---|---|
-| [proposals/](proposal/) | Propuestas de arquitectura — decisiones de alto nivel sobre la estructura del sistema. |
+| [proposal/](proposal/) | Propuestas de arquitectura — decisiones de alto nivel sobre la estructura del sistema. |
 | [adrs/](adrs/) | Registros de decisiones arquitectónicas — justificación de cada decisión técnica importante. |
 | [diagrams/](diagrams/) | Diagramas de arquitectura — representaciones visuales del sistema. |
 | [infrastructure/](infrastructure/) | Componentes de infraestructura — tecnologías usadas y por qué se eligieron. |
